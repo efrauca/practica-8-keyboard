@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 15%;
+  padding: 10% 5% 5% 5%;
+  border: solid 1px rgb(188, 188, 188);
+  border-radius: 25px;
+  background-color: #efefef;
+}
+

@@ -1,0 +1,9 @@
+button{
+    border: none;
+    background-color: #efefef;
+    padding: 2% 3%;
+}
+.result{
+    background-color: #efefef;
+    height: 25px;
+}
